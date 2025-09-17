@@ -14,13 +14,14 @@ My name is Bohan Lin. This is my first semester in BU MET MSCS. I have my Bachel
 - **GitHub Experience**: Beginner, currently learning
 - **Development Focus**: Backend Development
 
-## Ittoop Shinu Shibu
-
-I am Shinu, and this is my first semester in BU. I love to play video games, crotchet and learn new things in the field of AI and computer science.
-
 #### Course Expectations
 Through this project, I hope to:
 - Learn team collaboration and software development processes
 - Enhance backend development skills
 - Become a skilled software engineer
 - Grow together with team members
+
+
+## Ittoop Shinu Shibu
+
+I am Shinu, and this is my first semester in BU. I love to play video games, crotchet and learn new things in the field of AI and computer science.
