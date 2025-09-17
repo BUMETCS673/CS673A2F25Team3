@@ -25,3 +25,7 @@ Through this project, I hope to:
 ## Ittoop Shinu Shibu
 
 I am Shinu, and this is my first semester in BU. I love to play video games, crotchet and learn new things in the field of AI and computer science.
+
+## Junzhe Chen
+
+I am Junzhe, and this is my lazt semester in BU. I have my Bachlor degree in math in University of Airzona.
